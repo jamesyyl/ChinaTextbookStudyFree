@@ -1,5 +1,7 @@
 # ChinaStudyFree · 小学全科 AI 学习平台
 
+> 🇹🇼 **臺灣教材版工作紀錄（本 Fork）**：[進度與文件入口](docs/taiwan/README.md) · [唯一 TODO](docs/taiwan/IMPLEMENTATION_TODO.md) · [決策紀錄](docs/taiwan/DECISIONS.md)。目前僅規劃／調查，尚未宣稱臺灣教材可正式使用。
+
 **在线体验：[小猫头鹰课堂](https://d3nmsqi4n72idj.cloudfront.net/)** · 支持电脑和手机浏览器，无需安装。
 
 > **版本说明（2026-10-05）**：当前线上 Web 已部署 [`main`](https://github.com/wuwangzhang1216/ChinaTextbookStudyFree/tree/main) 的判分与音频兼容更新，并保留首次听完讲解才解锁的边框光环体验。下文本地启动步骤使用 `main`。
